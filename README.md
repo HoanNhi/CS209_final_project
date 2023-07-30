@@ -14,6 +14,7 @@ I built two similar models for task 1 and task 2 which are LSTM - Long-Short Ter
 I solved all four tasks in two seperate files using solely Google Colab:
 1. [Model for Nasdaq stock market](https://colab.research.google.com/drive/1uxT2gvNAtY7AgHhBedSsm_JSXovmL1KF?usp=sharing)
 2. [Model for three Vietnamese stock markets](https://colab.research.google.com/drive/19qxSElWrOir8OuK8vsRSdTmC56CgmZN7?usp=sharing)
+
 Alternatively, you can also download either, or both, of the files in this repository.
 I used Google Drive to contain and load the dataset from. Therefore, you must first upload the two folders below to your Google Drive:
 1. [Nasdaq dataset](https://drive.google.com/drive/folders/1tE9fr_Keul1SRn4rZX6v7aVM4DAyeYUW?usp=sharing)
