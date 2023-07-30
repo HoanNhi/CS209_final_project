@@ -14,5 +14,10 @@ I built two similar models for task 1 and task 2 which are LSTM - Long-Short Ter
 I solved all four tasks in two seperate files using solely Google Colab:
 1. [Model for Nasdaq stock market](https://colab.research.google.com/drive/1uxT2gvNAtY7AgHhBedSsm_JSXovmL1KF?usp=sharing)
 2. [Model for three Vietnamese stock markets](https://colab.research.google.com/drive/19qxSElWrOir8OuK8vsRSdTmC56CgmZN7?usp=sharing)
+Alternatively, you can also download either, or both, of the files in this repository.
+I used Google Drive to contain and load the dataset from. Therefore, you must first upload the two folders below to your Google Drive:
+1. [Nasdaq dataset](https://drive.google.com/drive/folders/1tE9fr_Keul1SRn4rZX6v7aVM4DAyeYUW?usp=sharing)
+2. [Vietnamese stock dataset](https://drive.google.com/drive/folders/1A-P8OirrH2cW9YBeN7o30e1PrnmnrenO?usp=sharing)
 
-I used Google Drive to contain and load the dataset from. Therefore, you must first download the below zip files, unzip them, and upload to your Google Drive. After that, you can simply access to either of the two Google Colab links above to enter the chosen file and run it. All required library are either included or will be installed automatically, so you don't have to worry about missing libraries.
+Please note that both of the datasets are updated with the data until the end of February, 2023. 
+After that, you can simply access to either of the two Google Colab links above to enter the chosen file and run it. All required library are either included or will be installed automatically, so you don't have to worry about missing libraries.
