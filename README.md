@@ -9,6 +9,8 @@
   - What is the list of companies to hold? What is the profit within a certain period?
   - What is the list of companies to get rid of? Why?
   - How to combine potential scores and risk scores into a portfolio to optimize investment strategy?
+
+## Solution
 I built two similar models for task 1 and task 2 which are LSTM - Long-Short Term Memory model. Regarding task 3 and 4, I chose Vietnam stock markets as it is harder to work with them than Nasdaq.
 ## How to use the codes?
 I solved all four tasks in two seperate files using solely Google Colab:
