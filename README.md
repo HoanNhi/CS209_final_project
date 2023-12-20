@@ -23,4 +23,4 @@ I used Google Drive to contain and load the dataset from. Therefore, you must fi
 2. [Vietnamese stock dataset](https://drive.google.com/drive/folders/1A-P8OirrH2cW9YBeN7o30e1PrnmnrenO?usp=sharing)
 
 Please note that both of the datasets are updated with the data until the end of February, 2023. 
-After that, you can simply access to either of the two Google Colab links above to enter the chosen file and run it. All required library are either included or will be installed automatically, so you don't have to worry about missing libraries. If you run these files locally, then install the required libraries in the requirements.txt
+After that, you can simply access to either of the two Google Colab links above to enter the chosen file and run it. All required library are either included or will be installed automatically, so you don't have to worry about missing libraries. If you run these files locally, then install the required libraries in the [requirements.txt](requirements.txt)
