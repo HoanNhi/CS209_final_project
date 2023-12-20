@@ -1,0 +1,9 @@
+requests
+simfin
+pandas
+numpy
+sklearn
+matplotlib
+datetime
+dateutil
+seaborn
